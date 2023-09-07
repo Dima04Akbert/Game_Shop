@@ -64,6 +64,7 @@ article {
     padding:30px;
     width: 400px;
     margin:30px ;
+    color: black;
      
 }
 
